@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/media/vincent/New Volume/ANNAN/.metadata/.plugins/org.eclipse.jdt.core
+2078267704.index
+2937171655.index
