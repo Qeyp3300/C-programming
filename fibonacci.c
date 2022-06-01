@@ -5,7 +5,9 @@ int factorial(int i)
     {
         return 1;
     }
-    return factorial(i)*factorial(i-1);
+    else
+    {
+    return i*factorial(i-1);
 }
 int main()
 {
